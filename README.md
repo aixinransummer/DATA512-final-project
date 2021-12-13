@@ -56,9 +56,9 @@ Only the attributes label and value were used for the analysis.
 ## Explanation of Each File
 [A4-visualization.docx](A4-visualization.docx) is the assignment turned in for Assignment 4, which include a visualizaiton and a reflection report about the graph. The assignment aims to explain how masking policy affects the progression of confirmed COVID cases through the visualization. 
 
-[A5-plan.docx](A6-plan.docx) is the assignment turned in for Assignment 5, which documents my plan about carrying out analysis for the project. 
+[A5-plan.docx](A5-plan.docx) is the assignment turned in for Assignment 5, which documents my plan about carrying out analysis for the project. 
 
-[A6-presentation.ppt](A6-presentation.ppt) is the powerpoint I used for the in-class presentation. 
+[A6-presentation.pptx](A6-presentation.pptx) is the powerpoint I used for the in-class presentation. 
 
 [A7-final-report.docx](A7-final-report.docx) is the final report turned in for Assignment 7. 
 
