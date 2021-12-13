@@ -19,7 +19,7 @@ The first one is the [COVID-19](https://www.kaggle.com/antgoldbloom/covid19-data
 | Country_Region| Name of the country for the region |
 | Lat | Latitude of the region |
 | Long| Longtitude of the region |
-| Combined_Key| Indicate country, state, country |
+| Combined_Key| Indicate county, state, country |
 | Dates| Cumulative number of confirmed cases for specific date |
 
 After selecting the data about Denver, CO from this dataset, only the attributes of dates and cumulative cases were used for analysis. 
@@ -38,6 +38,7 @@ The second dataset is the [mask mandates](https://data.cdc.gov/Policy-Surveillan
 | Source_of_Action| Source where order was found |
 | URL| URL of order language used to complete dataset|
 | Citation|Citation for the order|
+
 After selecting the data about Denver, CO from this dataset, only the attributes of dates and Face_Masks_Required_in_Public were used for analysis.
 
 The thrid data is the [unemployment rate](https://beta.bls.gov/dataViewer/view/timeseries/LAUCN080310000000003) data about Denver, which is from the U.S Bureau of Labor Statistics. There are five attributes in the dataset, as explained below
@@ -49,6 +50,8 @@ The thrid data is the [unemployment rate](https://beta.bls.gov/dataViewer/view/t
 | Period | Month of the data|
 | Label| In the format of year-month to indicate time|
 | Value | Monthly unemployment rate in percentage|
+
+Only the attributes label and value were used for the analysis. 
 
 ## Explanation of Each File
 [A4-visualization.docx](A4-visualization.docx) is the assignment turned in for Assignment 4, which include a visualizaiton and a reflection report about the graph. The assignment aims to explain how masking policy affects the progression of confirmed COVID cases through the visualization. 
