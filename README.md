@@ -40,9 +40,17 @@ The second dataset is the [mask mandates](https://data.cdc.gov/Policy-Surveillan
 | Citation|Citation for the order|
 After selecting the data about Denver, CO from this dataset, only the attributes of dates and Face_Masks_Required_in_Public were used for analysis.
 
-The thrid data 
+The thrid data is the [unemployment rate](https://beta.bls.gov/dataViewer/view/timeseries/LAUCN080310000000003) data about Denver, which is from the U.S Bureau of Labor Statistics. There are five attributes in the dataset, as explained below
+
+| Attributes | Description |
+| --- | --- |
+| Series ID| Unique id that indicates which location the series is about|
+| Year| Year of the data |
+| Period | Month of the data|
+| Label| In the format of year-month to indicate time|
+| Value | Monthly unemployment rate in percentage|
 
 ## Explanation of Each File
 
 ## Licenses
-The COVID-19 data is licensed under [Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode), which meanse I am allowed to share and adapt the data without specific permission. 
+The COVID-19 data is licensed under [Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode), which means I am allowed to share and adapt the data without specific permission. As per [Q&A section](https://www.cdc.gov/Other/policies.html) in CDC, the second dataset is in the public domain and may be freely used or reproduced without obtaining copyright permission. According to the [linking and copyright information](https://www.bls.gov/bls/linksite.htm), the third dataset is in the public domain and is free to be used without specific permission but required to cite the U.S. Bureau of Labor Statistics as a source.
