@@ -51,7 +51,15 @@ The thrid data is the [unemployment rate](https://beta.bls.gov/dataViewer/view/t
 | Value | Monthly unemployment rate in percentage|
 
 ## Explanation of Each File
+[A4-visualization.docx](A4-visualization.docx) is the assignment turned in for Assignment 4, which include a visualizaiton and a reflection report about the graph. The assignment aims to explain how masking policy affects the progression of confirmed COVID cases through the visualization. 
 
+[A5-plan.docx](A6-plan.docx) is the assignment turned in for Assignment 5, which documents my plan about carrying out analysis for the project. 
+
+[A6-presentation.ppt](A6-presentation.ppt) is the powerpoint I used for the in-class presentation. 
+
+[A7-final-report.docx](A7-final-report.docx) is the final report turned in for Assignment 7. 
+
+[DATA-512-Project.ipynb](DATA-512-Project.ipynb) is a jupyter notebook that documents all the code that has been used from Assignment 4-7. 
 ## Licenses
 Datasets used for this project is licensed under [MIT](LICENSE).
 
