@@ -63,6 +63,9 @@ Only the attributes label and value were used for the analysis.
 [A7-final-report.docx](A7-final-report.docx) is the final report turned in for Assignment 7. 
 
 [DATA-512-Project.ipynb](DATA-512-Project.ipynb) is a jupyter notebook that documents all the code that has been used from Assignment 4-7. 
+
+## Code Attribution
+I would like to thank Jin Hyun Cheong on his [post](https://towardsdatascience.com/four-ways-to-quantify-synchrony-between-time-series-data-b99136c4a9c9) about cross correlation. The code of drawing cross correltion graph was adapted from the code he shared in the post. 
 ## Licenses
 Datasets used for this project is licensed under [MIT](LICENSE).
 
