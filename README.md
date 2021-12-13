@@ -19,7 +19,7 @@ The first one is the [COVID-19](https://www.kaggle.com/antgoldbloom/covid19-data
 | Country_Region| Name of the country for the region |
 | Lat | Latitude of the region |
 | Long| Longtitude of the region |
-| Combined_Key| Indicate country, state, country |
+| Combined_Key| Indicate county, state, country |
 | Dates| Cumulative number of confirmed cases for specific date |
 
 After selecting the data about Denver, CO from this dataset, only the attributes of dates and cumulative cases were used for analysis. 
@@ -38,6 +38,7 @@ The second dataset is the [mask mandates](https://data.cdc.gov/Policy-Surveillan
 | Source_of_Action| Source where order was found |
 | URL| URL of order language used to complete dataset|
 | Citation|Citation for the order|
+
 After selecting the data about Denver, CO from this dataset, only the attributes of dates and Face_Masks_Required_in_Public were used for analysis.
 
 The thrid data is the [unemployment rate](https://beta.bls.gov/dataViewer/view/timeseries/LAUCN080310000000003) data about Denver, which is from the U.S Bureau of Labor Statistics. There are five attributes in the dataset, as explained below
@@ -50,8 +51,21 @@ The thrid data is the [unemployment rate](https://beta.bls.gov/dataViewer/view/t
 | Label| In the format of year-month to indicate time|
 | Value | Monthly unemployment rate in percentage|
 
-## Explanation of Each File
+Only the attributes label and value were used for the analysis. 
 
+## Explanation of Each File
+[A4-visualization.docx](A4-visualization.docx) is the assignment turned in for Assignment 4, which include a visualizaiton and a reflection report about the graph. The assignment aims to explain how masking policy affects the progression of confirmed COVID cases through the visualization. 
+
+[A5-plan.docx](A5-plan.docx) is the assignment turned in for Assignment 5, which documents my plan about carrying out analysis for the project. 
+
+[A6-presentation.pptx](A6-presentation.pptx) is the powerpoint I used for the in-class presentation. 
+
+[A7-final-report.docx](A7-final-report.docx) is the final report turned in for Assignment 7. 
+
+[DATA-512-Project.ipynb](DATA-512-Project.ipynb) is a jupyter notebook that documents all the code that has been used from Assignment 4-7. 
+
+## Code Attribution
+I would like to thank Jin Hyun Cheong on his [post](https://towardsdatascience.com/four-ways-to-quantify-synchrony-between-time-series-data-b99136c4a9c9) about cross correlation. The code of drawing cross correltion graph was adapted from the code he shared in the post. 
 ## Licenses
 Datasets used for this project is licensed under [MIT](LICENSE).
 
